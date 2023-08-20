@@ -5,3 +5,4 @@ chat_prompt: >
   pick a random subject. Be very original. Put it in the '`Subject` facts' format.
   Give the output in an array format that's json parseable., like ['Police facts', 'prison facts'].
   Only give the array and nothing else.
+  Never give me numbers in figures, write them in letters.
